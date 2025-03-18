@@ -1,0 +1,1 @@
+export {ElIcon} from './ElIcon';

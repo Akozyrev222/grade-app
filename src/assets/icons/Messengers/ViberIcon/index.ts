@@ -1,0 +1,1 @@
+export {ViberIcon} from './ViberIcon';

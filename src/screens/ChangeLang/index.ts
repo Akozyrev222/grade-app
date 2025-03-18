@@ -1,0 +1,1 @@
+export {ChangeLang} from './ChangeLang';

@@ -1,0 +1,1 @@
+export {FrIcon} from './FrIcon';

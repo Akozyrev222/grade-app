@@ -1,0 +1,1 @@
+export {EtIcon} from './EtIcon';

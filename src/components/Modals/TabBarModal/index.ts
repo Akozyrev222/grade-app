@@ -1,0 +1,1 @@
+export {TabBarModal} from './TabBarModal';

@@ -1,0 +1,1 @@
+export {SrIcon} from './SrIcon';

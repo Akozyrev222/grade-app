@@ -1,0 +1,1 @@
+export {RuIcon} from './RuIcon';

@@ -1,0 +1,1 @@
+export {TrIcon} from './TrIcon';

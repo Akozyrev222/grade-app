@@ -1,0 +1,1 @@
+export {KaIcon} from './KaIcon';

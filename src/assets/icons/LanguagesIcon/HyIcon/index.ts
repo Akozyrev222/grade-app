@@ -1,0 +1,1 @@
+export {HyIcon} from './HyIcon';

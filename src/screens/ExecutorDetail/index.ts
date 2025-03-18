@@ -1,0 +1,1 @@
+export {ExecutorDetail} from './ExecutorDetail';
